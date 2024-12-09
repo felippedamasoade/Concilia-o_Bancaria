@@ -1,4 +1,6 @@
 pandas
 streamlit
 openpyxl
-pyxlsb
+pyexcel
+pyexcel-xls
+pyexcel-xlsx
